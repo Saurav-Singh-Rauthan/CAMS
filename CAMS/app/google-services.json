@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565633051039",
+    "project_id": "cams-84781",
+    "storage_bucket": "cams-84781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565633051039:android:1f6b066dcd3b43925235aa",
+        "android_client_info": {
+          "package_name": "com.example.cams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565633051039-o8fn8dc41oodin5cu5etbr8n4krs2rfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMn6C0tKzjpIea06HdD-9gB1zbiH9vtZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565633051039-o8fn8dc41oodin5cu5etbr8n4krs2rfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

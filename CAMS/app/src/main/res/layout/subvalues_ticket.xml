@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10pt">
+
+    <LinearLayout
+        android:layout_width="60pt"
+        android:layout_height="wrap_content"
+        android:layout_margin="8pt"
+        android:background="@drawable/ticketmain_bg"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="8pt">
+
+        <TextView
+            android:id="@+id/tvSubText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="reading\nhall"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+
+
+</LinearLayout>
